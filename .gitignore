@@ -1,0 +1,22 @@
+# 依存とビルド出力
+node_modules/
+dist/
+dist-ssr/
+
+# ログ・一時ファイル
+logs
+*.log
+npm-debug.log*
+*.local
+.DS_Store
+Thumbs.db
+
+# エディタ
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
